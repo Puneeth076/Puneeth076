@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Puneeth M K</h1>
 <h3 align="center">A passionate full stack developer(MERN and JAVA SERVLET) from India</h3>
 
-- //🔭 I’m currently working on [Restaurant management](https://github.com/Puneeth076/Restaurant)
+- 🔭 I’m currently working on [Restaurant management](https://github.com/Puneeth076/Restaurant)
 
 - 🌱 I’m currently learning **Next js and servlet**
 
